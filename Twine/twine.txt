@@ -1,0 +1,27 @@
+Intro to Twine 2
+
+Twine 2 is available to use online and for download at https://twinery.org/
+Usine Twine online only saves your Twine games in the browser history of the engine you use to start the game. It is recommended that you download Twine instead. 
+
+Basics: 
+* Twine games are published in HTML/CSS/JS
+
+* Stories are organized using "passages". Once a passage is created, you can add a title and source content/code for the passage. 
+
+* Words within passages can be linked to other passages in order to create interactive narratives. Place words in two [[square brackets]] to create links. 
+
+* use a pipe followed by text to title the new passage: [[link | passage name]]  
+
+* Export your games using 'Publish to File' in the Twine editor 
+
+Story Formats:
+* Story formats provide basic defaults for how stories are coded in Twine. Harlowe is the default (and simplest) story format for Twine games 
+* Sugarcube 2 is a story format bundled with Twine. It makes changing the appearance of your story more flexible 
+
+Tutorials that walk through Twine 2 basics: 
+Getting Started With Twine: https://www.youtube.com/watch?v=g7VYL8xqJnQ
+
+Making Your Twine 2 Game Look Awesome with CSS (Sugarcube 2): https://www.youtube.com/watch?v=l-8dTwUVT2E&t=10s
+
+CSS Guide: www.w3schools.com/cssref
+
