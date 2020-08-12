@@ -5,4 +5,4 @@ This repo is for the 6310 course in LMC. See this page for resources and code do
 The folder for each unit in this course contains the following materials:
 * readme file with general resources
 * example code
-* icons 
+* icons and other materials
